@@ -1,2 +1,2 @@
-losf-doc
+Click on the GitHub "Wiki" link -->
 ========
